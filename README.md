@@ -54,6 +54,9 @@ This research is poised to drive further advancements in geophysical
 data analysis and offers valuable insights for FM applications 
 in other scientific domains.
 
+[workflow.pdf](https://github.com/user-attachments/files/16118191/workflow.pdf)
+
+
 ##  🚀 Quick Start
 
 ## :package: Dataset
