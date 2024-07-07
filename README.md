@@ -4,11 +4,11 @@
 🏢 [Computational Interpretation Group (CIG)](https://cig.ustc.edu.cn/main.htm) 
 
 [Zhixiang Guo<sup>1</sup>](https://cig.ustc.edu.cn/guo/list.htm), 
-[Xinming Wu*](https://cig.ustc.edu.cn/xinming/list.htm), 
-Luming Liang, 
-[Hanlin Sheng](https://cig.ustc.edu.cn/hanlin/list.htm), 
-[Nuo Chen](https://cig.ustc.edu.cn/nuo/list.htm), 
-[Zhengfa Bi](https://profiles.lbl.gov/416831-zhengfa-bi)
+[Xinming Wu<sup>1*</sup>](https://cig.ustc.edu.cn/xinming/list.htm), 
+[Luming Liang<sup>2</sup>](https://www.microsoft.com/en-us/research/people/lulian/), 
+[Hanlin Sheng<sup>1</sup>](https://cig.ustc.edu.cn/hanlin/list.htm), 
+[Nuo Chen<sup>1</sup>](https://cig.ustc.edu.cn/nuo/list.htm), 
+[Zhengfa Bi<sup>3</sup>](https://profiles.lbl.gov/416831-zhengfa-bi)
 
 School of Earth and Space Sciences, University of Science and Technology of China, Hefei, China
 
