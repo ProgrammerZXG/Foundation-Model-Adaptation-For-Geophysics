@@ -11,6 +11,7 @@
 :collision: [2024.07.07]: Github Repository Initialization. 
 
 ## :sparkles: Introduction
+<p style="text-align: justify;">
 We explore the potential of adapting foundation models (FMs) from 
 the visual domain to geophysics. FMs, large deep learning neural 
 networks trained on massive datasets, revolutionize machine 
@@ -38,6 +39,7 @@ proving the feasibility and advantages of cross-domain FM adaptation.
 This research is poised to drive further advancements in geophysical 
 data analysis and offers valuable insights for FM applications 
 in other scientific domains.
+</p>
 
 ##  🚀 Quick Start
 
