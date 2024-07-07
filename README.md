@@ -52,7 +52,6 @@ field (4th column).
 ## :bookmark: Citation
 
 ## :memo: Acknowledgment
-<p align="justify">
 This study is strongly supported by the Supercomputing 
 Center of the University of Science and Technology of China, 
 particularly with the provision of Nvidia 80G A100 GPUs, 
@@ -62,7 +61,6 @@ We also thank [SEAM](https://seg.org/SEAM) for providing the seismic facies clas
 [CAS](https://moon.bao.ac.cn) for the crater detection dataset, 
 [Biondi](https://www.science.org/doi/full/10.1126/sciadv.adi9878) for the DAS seismic event detection dataset, 
 and [CIG](https://cig.ustc.edu.cn/main.htm) for the deep fault detection dataset.
-</p>
 
 ## :postbox: Contact
 <p align="justify">
