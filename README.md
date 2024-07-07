@@ -39,7 +39,7 @@ is applied to various downstream tasks within the geophysics
 field (4th column).
 
 <div align=center>
-  <img src="https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/assets/89449763/5d921c4c-c012-4cea-ad92-ae8b391ba78b" >
+  <img src="https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/assets/89449763/5d921c4c-c012-4cea-ad92-ae8b391ba78b" width="1000">
 </div>
 
 
