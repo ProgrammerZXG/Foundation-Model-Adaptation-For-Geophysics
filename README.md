@@ -63,7 +63,5 @@ We also thank [SEAM](https://seg.org/SEAM) for providing the seismic facies clas
 and [CIG](https://cig.ustc.edu.cn/main.htm) for the deep fault detection dataset.
 
 ## :postbox: Contact
-<p align="justify">
 If you have any questions about this work, 
 please feel free to contact xinmwu@ustc.edu.cn or zxg3@mail.ustc.edu.cn.
-</p>
