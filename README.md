@@ -53,6 +53,6 @@ We also thank [SEAM](https://seg.org/SEAM) for providing the seismic facies clas
 [Biondi](https://www.science.org/doi/full/10.1126/sciadv.adi9878) for the DAS seismic event detection dataset, 
 and [CIG](https://cig.ustc.edu.cn/main.htm) for the deep fault detection dataset.
 
-## :envelope: Contact
+## :postbox: Contact
 If you have any questions about this work, 
 please feel free to contact xinmwu@ustc.edu.cn or zxg3@mail.ustc.edu.cn.
