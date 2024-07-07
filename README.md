@@ -18,9 +18,9 @@
     Center of the University of Science and Technology of China, 
     particularly with the provision of Nvidia 80G A100 GPUs, 
     which are crucial for our experiments. 
-    We also thank [SEAM](https://seg.org/SEAM/) for providing the seismic facies classification dataset, 
+    We also thank [SEAM](https://seg.org/SEAM) for providing the seismic facies classification dataset, 
     [TGS](https://www.kaggle.com/competitions/tgs-salt-identification-challenge) for the geobody identification dataset, 
-    [CAS](https://moon.bao.ac.cn/) for the crater detection dataset, 
+    [CAS](https://moon.bao.ac.cn) for the crater detection dataset, 
     [Biondi](https://www.science.org/doi/full/10.1126/sciadv.adi9878) for the DAS seismic event detection dataset, 
     and CIGs(https://cig.ustc.edu.cn/main.htm) for the deep fault detection dataset.
 
