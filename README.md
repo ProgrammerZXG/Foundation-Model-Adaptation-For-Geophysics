@@ -18,7 +18,7 @@ Microsoft Applied Sciences Group, Redmond, WA 98052, United States
 <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="26" height="26"> 
 
 Lawrence Berkeley National Laboratory, 1 Cyclotron Rd, CA 94707, USA
-<img src="https://www.lbl.gov/wp-content/uploads/2022/09/berkeley-logo.svg" width="26" height="26"> 
+<img src="https://www.lbl.gov/wp-content/uploads/2022/09/berkeley-logo.svg" width="40" height="40"> 
 
 ## :mega: News
 :flying_saucer: The dataset, model, code, and demo are coming soon! 
