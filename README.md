@@ -5,6 +5,10 @@
 
 [Zhixiang Guo](https://cig.ustc.edu.cn/guo/list.htm), Xinming Wu*, Luming Liang, Hanlin Sheng, Nuo Chen, Zhengfa Bi
 
+\affiliation{1}{School of Earth and Space Sciences, University of Science and Technology of China, Hefei, China}
+\affiliation{2}{Microsoft Applied Sciences Group, Redmond, WA 98052, United States}
+Lawrence Berkeley National Laboratory, 1 Cyclotron Rd, CA 94707, USA
+
 ## :mega: News
 :flying_saucer: The dataset, model, code, and demo are coming soon! 
 
