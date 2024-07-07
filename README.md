@@ -8,6 +8,33 @@
 ## :mega: News
 
 ##  :sparkles: Introduction
+  We explore the potential of adapting foundation models (FMs) from 
+  the visual domain to geophysics. FMs, large deep learning neural 
+  networks trained on massive datasets, revolutionize machine 
+  learning (ML) by performing diverse tasks with remarkable 
+  adaptability and generality, setting them apart from traditional
+  ML models. The geophysics field, however, faces challenges 
+  such as the lack of meticulously curated training datasets 
+  and the immense computational power and costs required to 
+  develop specialized FMs. This prompts us to consider directly 
+  adapting FMs from the computer vision domain to geophysics. 
+  By analyzing the scale, adaptability, and generality of FMs, 
+  along with their capabilities and limitations in extracting 
+  and representing critical geophysical data features, we explore 
+  their crucial role in geophysical data analysis and interpretation. 
+  We introduce an innovative workflow that leverages existing 
+  computer vision FMs, adapting and fine-tuning them for diverse 
+  tasks of geophysical 
+  data analysis. This approach significantly reduces development 
+  costs and time while enhancing the accuracy and efficiency of 
+  geophysical analysis. Through a series of experiments, we 
+  validate the effectiveness of this workflow, demonstrating 
+  its broad application potential in geophysical data processing. 
+  Our findings introduce advanced ML techniques to geophysics, 
+  proving the feasibility and advantages of cross-domain FM adaptation. 
+  This research is poised to drive further advancements in geophysical 
+  data analysis and offers valuable insights for FM applications 
+  in other scientific domains.
 
 ##  🚀 Quick to start
 
