@@ -10,10 +10,11 @@
 [Nuo Chen<sup>1</sup>](https://cig.ustc.edu.cn/nuo/list.htm), 
 [Zhengfa Bi<sup>3</sup>](https://profiles.lbl.gov/416831-zhengfa-bi)
 
-<img src="https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/assets/89449763/399d6c3b-07eb-49dd-b0e9-d2bdb3cb3553" alt="中国科学技术大学_64x64" width="26" height="26">
 School of Earth and Space Sciences, University of Science and Technology of China, Hefei, China 
+<img src="https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/assets/89449763/399d6c3b-07eb-49dd-b0e9-d2bdb3cb3553" alt="中国科学技术大学_64x64" width="26" height="26">
 
-<img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="26" height="26"> Microsoft Applied Sciences Group, Redmond, WA 98052, United States
+Microsoft Applied Sciences Group, Redmond, WA 98052, United States
+<img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="26" height="26"> 
 
 Lawrence Berkeley National Laboratory, 1 Cyclotron Rd, CA 94707, USA
 
