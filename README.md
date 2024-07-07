@@ -3,7 +3,7 @@
 
 🏢 [Computational Interpretation Group (CIG)](https://cig.ustc.edu.cn/main.htm) 
 
-[Zhixiang Guo^1^](https://cig.ustc.edu.cn/guo/list.htm), 
+[Zhixiang Guo<sup>1</sup>](https://cig.ustc.edu.cn/guo/list.htm), 
 [Xinming Wu*](https://cig.ustc.edu.cn/xinming/list.htm), 
 Luming Liang, 
 [Hanlin Sheng](https://cig.ustc.edu.cn/hanlin/list.htm), 
