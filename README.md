@@ -3,10 +3,17 @@
 
 🏢 [Computational Interpretation Group (CIG)](https://cig.ustc.edu.cn/main.htm) 
 
-[Zhixiang Guo](https://cig.ustc.edu.cn/guo/list.htm), Xinming Wu*, Luming Liang, Hanlin Sheng, Nuo Chen, Zhengfa Bi
+[Zhixiang Guo^1^](https://cig.ustc.edu.cn/guo/list.htm), 
+[Xinming Wu*](https://cig.ustc.edu.cn/xinming/list.htm), 
+Luming Liang, 
+[Hanlin Sheng](https://cig.ustc.edu.cn/hanlin/list.htm), 
+[Nuo Chen](https://cig.ustc.edu.cn/nuo/list.htm), 
+[Zhengfa Bi](https://profiles.lbl.gov/416831-zhengfa-bi)
 
-\affiliation{1}{School of Earth and Space Sciences, University of Science and Technology of China, Hefei, China}
-\affiliation{2}{Microsoft Applied Sciences Group, Redmond, WA 98052, United States}
+School of Earth and Space Sciences, University of Science and Technology of China, Hefei, China
+
+Microsoft Applied Sciences Group, Redmond, WA 98052, United States
+
 Lawrence Berkeley National Laboratory, 1 Cyclotron Rd, CA 94707, USA
 
 ## :mega: News
