@@ -26,6 +26,7 @@ Lawrence Berkeley National Laboratory, 1 Cyclotron Rd, CA 94707, USA
 :collision: [2024.07.07]: Github Repository Initialization. 
 
 ## :sparkles: Introduction
+<p align="justify">
 Workflow for adapting pre-trained foundation models to geophysics.
 First, we prepare geophysical training datasets (1st column), 
 which involves collecting and processing relevant geophysical data 
@@ -37,6 +38,7 @@ we explore suitable decoders
 (3rd column) for geophysical downstream adaption. Finally, the adapted model 
 is applied to various downstream tasks within the geophysics 
 field (4th column).
+</p>
 
 <div align=center>
   <img src="https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/assets/89449763/5d921c4c-c012-4cea-ad92-ae8b391ba78b" width="1000">
