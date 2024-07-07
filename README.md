@@ -6,9 +6,9 @@
 [Zhixiang Guo](https://cig.ustc.edu.cn/guo/list.htm), Xinming Wu*, Luming Liang, Hanlin Sheng, Nuo Chen, Zhengfa Bi
 
 ## :mega: News
-:alarm_clock: The dataset, model, code, and demo are coming soon! :flying_saucer:
+:flying_saucer: The dataset, model, code, and demo are coming soon! 
 
-[2024.07.07]: Github Repository Initialization. :collision:
+:collision: [2024.07.07]: Github Repository Initialization. 
 
 ## :sparkles: Introduction
 We explore the potential of adapting foundation models (FMs) from 
