@@ -36,9 +36,9 @@
   data analysis and offers valuable insights for FM applications 
   in other scientific domains.
 
-##  🚀 Quick to start
+##  🚀 Quick Start
 
-##  Dataset
+##  ‼ Dataset
 
 ## :bookmark: Citation
 
