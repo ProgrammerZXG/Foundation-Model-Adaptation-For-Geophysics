@@ -10,7 +10,8 @@
 [Nuo Chen<sup>1</sup>](https://cig.ustc.edu.cn/nuo/list.htm), 
 [Zhengfa Bi<sup>3</sup>](https://profiles.lbl.gov/416831-zhengfa-bi)
 
-School of Earth and Space Sciences, University of Science and Technology of China, Hefei, China
+School of Earth and Space Sciences, University of Science and Technology of China, Hefei, China ![中国科学技术大学_64x64](https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/assets/89449763/031dfd1d-7e74-4077-a374-a2db28cb520e)
+
 
 Microsoft Applied Sciences Group, Redmond, WA 98052, United States
 
