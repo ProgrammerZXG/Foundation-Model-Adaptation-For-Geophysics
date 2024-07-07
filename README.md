@@ -18,7 +18,7 @@ Microsoft Applied Sciences Group, Redmond, WA 98052, United States
 <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="26" height="26"> 
 
 Lawrence Berkeley National Laboratory, 1 Cyclotron Rd, CA 94707, USA
-<img width="26" alt="截屏2024-07-07 13 12 39" src="https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/assets/89449763/2105a42f-7091-4910-819e-7e85b08f6639">
+<img width="30" alt="截屏2024-07-07 13 12 39" src="https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/assets/89449763/2105a42f-7091-4910-819e-7e85b08f6639">
 
 ## :mega: News
 :flying_saucer: The dataset, model, code, and demo are coming soon! 
