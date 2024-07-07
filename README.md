@@ -1,4 +1,4 @@
-# <p align="justify"> 🌏 Cross-Domain Foundation Model Adaptation: Pioneering Computer Vision Models for Geophysical Data Analysis </p>
+#  🌏 Cross-Domain Foundation Model Adaptation: Pioneering Computer Vision Models for Geophysical Data Analysis
 
 
 🏢 [Computational Interpretation Group (CIG)](https://cig.ustc.edu.cn/main.htm) 
