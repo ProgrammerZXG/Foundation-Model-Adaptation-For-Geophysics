@@ -38,7 +38,7 @@ in other scientific domains.
 
 ##  🚀 Quick Start
 
-## :double_exclamation_mark: Dataset
+## :package: Dataset
 
 ## :bookmark: Citation
 
