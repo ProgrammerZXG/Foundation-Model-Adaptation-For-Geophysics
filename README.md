@@ -48,6 +48,8 @@ field (4th column).
 ##  🚀 Quick Start
 
 ## :package: Dataset
+All data is avalable at [Zenodo](https://zenodo.org/records/12798750)
+
 | Task                         | Data Sources                                  | Data Size    | Training <br>Number | Test <br>Number |
 |------------------------------|-----------------------------------------------|--------------|-----------------|-------------|
 | Seismic Facies Classification| <div align="center">provided by (SEAM, 2020)</div>                       | <div align="center">1006 × 782</div>     |  <div align="center">250</div>              |  <div align="center">45</div>           |
