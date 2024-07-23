@@ -23,7 +23,7 @@ Lawrence Berkeley National Laboratory, 1 Cyclotron Rd, CA 94707, USA
 ## :mega: News
 :flying_saucer: The dataset, model, code, and demo are coming soon! 
 
-:collision: [2024.07.23]: Upload the [dataset]([https://zenodo.org/records/12798750](https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/blob/master/README.md#package-dataset)). 
+:collision: [2024.07.23]: Upload the [dataset](https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation/blob/master/README.md#package-dataset). 
 
 :collision: [2024.07.07]: Github Repository Initialization. 
 
