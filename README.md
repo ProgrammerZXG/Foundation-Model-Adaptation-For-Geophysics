@@ -48,7 +48,7 @@ field (4th column).
 ##  🚀 Quick Start
 
 ## :package: Dataset
-The dataset is available at [Zenodo](10.5281/zenodo.12798750).
+The dataset is available at [Zenodo](https://doi.org/10.5281/zenodo.12798750).
 ## :bookmark: Citation
 
 ## :memo: Acknowledgment
