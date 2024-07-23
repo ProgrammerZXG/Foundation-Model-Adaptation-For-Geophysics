@@ -48,13 +48,13 @@ field (4th column).
 ##  🚀 Quick Start
 
 ## :package: Dataset
-| Task                         | Data Sources                                  | Data Size    | Training Number | Test Number |
+| Task                         | Data Sources                                  | Data Size    | Training <br>Number | Test <br>Number |
 |------------------------------|-----------------------------------------------|--------------|-----------------|-------------|
-| Seismic Facies Classification| provided by (SEAM, 2020)                      | 1006 × 782   |  <div align="center">250</div>              |  <div align="center">45</div>           |
-| Salt Body Identification     | provided by (Addison Howard et al., 2018)     | 224 × 224    |  <div align="center">3000</div>             |  <div align="center">1000</div>         |
-| Crater Detection             | original data provided by CAS, <br>labelled by authors | <div align="center">1022 × 1022</div>  | <div align="center">1000</div>            | <div align="center">199</div>         |
-| DAS Seismic Event Detection  | provided by (Biondi et al., 2023)             | <div align="center">512 × 512</div>    | <div align="center">115</div>             | <div align="center">28</div>          |
-| Deep Fault Detection         | original data provided <br>from field surveys, <br>labelled by authors | <div align="center">896 × 896</div> | <div align="center">1081</div> | <div align="center">269</div> |
+| Seismic Facies Classification| <div align="center">provided by (SEAM, 2020)</div>                       | <div align="center">1006 × 782</div>     |  <div align="center">250</div>              |  <div align="center">45</div>           |
+| Salt Body Identification     | <div align="center">provided by (Addison Howard et al., 2018)</div>      | <div align="center">224 × 224</div>      |  <div align="center">3000</div>             |  <div align="center">1000</div>         |
+| Crater Detection             | <div align="center">original data provided by CAS, <br>labelled by authors</div>  | <div align="center">1022 × 1022</div>  | <div align="center">1000</div>            | <div align="center">199</div>         |
+| DAS Seismic Event Detection  | <div align="center">provided by (Biondi et al., 2023)</div>              | <div align="center">512 × 512</div>    | <div align="center">115</div>             | <div align="center">28</div>          |
+| Deep Fault Detection         | <div align="center">original data provided <br>from field surveys, <br>labelled by authors</div>  | <div align="center">896 × 896</div> | <div align="center">1081</div> | <div align="center">269</div> |
 
 ## :bookmark: Citation
 
