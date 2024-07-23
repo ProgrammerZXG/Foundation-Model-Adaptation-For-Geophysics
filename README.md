@@ -48,7 +48,8 @@ field (4th column).
 ##  🚀 Quick Start
 
 ## :package: Dataset
-All data is avalable at [Zenodo](https://zenodo.org/records/12798750)
+All data is avalable at [Zenodo](https://zenodo.org/records/12798750).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12798750.svg)](https://doi.org/10.5281/zenodo.12798750)
 
 | Task                         | Data Sources                                  | Data Size    | Training <br>Number | Test <br>Number |
 |------------------------------|-----------------------------------------------|--------------|-----------------|-------------|
